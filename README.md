@@ -1,5 +1,5 @@
-## Codeforces Submissions
-
+## My Codeforces Submissions
+A growing collection of Codeforces problems I’ve solved — learning, improving, and enjoying the process!
 
 ## Introduction
 
@@ -17,6 +17,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 834 | [B - Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1909/submission/334577624) | `bitmasks` `constructive algorithms` `math` `number theory` `*1200` | Aug 20 2025, 00:02 |
 | 833 | [D - Three Activities](https://codeforces.com/contest/1914/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1914/submission/334431217) | `brute force` `dp` `greedy` `implementation` `sortings` `*1200` | Aug 19 2025, 00:01 |
 | 832 | [C - Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1511/submission/334167512) | `brute force` `data structures` `implementation` `trees` `*1100` | Aug 16 2025, 22:24 |
 | 831 | [B - Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1610/submission/333949517) | `greedy` `two pointers` `*1100` | Aug 14 2025, 21:08 |
